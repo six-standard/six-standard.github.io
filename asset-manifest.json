@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a8d946c.css",
-    "main.js": "/static/js/main.458a2e1c.js",
+    "main.js": "/static/js/main.77860fa7.js",
+    "static/media/GwangyangSunshineBold.ttf": "/static/media/GwangyangSunshineBold.4938420eb58e52ba0264.ttf",
+    "static/media/GwangyangSunshineRegular.ttf": "/static/media/GwangyangSunshineRegular.fa278d61880de950fcae.ttf",
     "index.html": "/index.html",
-    "main.5a8d946c.css.map": "/static/css/main.5a8d946c.css.map",
-    "main.458a2e1c.js.map": "/static/js/main.458a2e1c.js.map"
+    "main.77860fa7.js.map": "/static/js/main.77860fa7.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a8d946c.css",
-    "static/js/main.458a2e1c.js"
+    "static/js/main.77860fa7.js"
   ]
 }
